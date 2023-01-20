@@ -4,10 +4,6 @@ During my career I have been able to direct processes, manage organizational cha
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[![My toolbox](https://skillicons.dev/icons?i=js,nodejs,express,mysql,postgres,mongodb,docker,html,css,jest,github)](https://skillicons.dev)" />
-  </a>
-</p>
+[![My toolbox](https://skillicons.dev/icons?i=js,nodejs,express,mysql,postgres,mongodb,docker,html,css,jest,github)](https://skillicons.dev)
 
 
