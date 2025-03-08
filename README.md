@@ -3,6 +3,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My toolbox](https://skillicons.dev/icons?i=js,nodejs,express,react,mysql,postgres,mongodb,docker,html,css,jest,github,python,aws,fastapi)](https://skillicons.dev)
+[![My toolbox](https://skillicons.dev/icons?i=js,nodejs,express,python,fastapi,ts,nestjs,react,tailwind,html,css,mysql,postgres,mongodb,docker,aws,azure,jest,git,github,)](https://skillicons.dev)
 
 
